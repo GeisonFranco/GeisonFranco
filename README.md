@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeisonFranco&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" margin-bottom="5px" margin-top="5px" alt="Geison-pic" height="250" style="border-radius:40px;" src="https://64.media.tumblr.com/e7cfe0074ae5fd4bd2f47735e9f53206/tumblr_mkwpqrtiJN1rsdpaso1_500.gifv">
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" margin-top="8px" margin-bottom="8px"><br>
   <img align="center" alt="Geison-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Geison-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geison-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,7 +18,7 @@
   
   ##
  
-<div> 
+<div margin-top="5px" > 
   <a href="https://www.instagram.com/geison_franco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:geisonfler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/geison-franco-b8a00487/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
