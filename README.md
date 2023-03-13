@@ -1,7 +1,6 @@
 ## E aí, Beleza!? Sou programador Júnior e artísta visual, fique a vontade pra ver o resultado do meu trabalho, eu me chamo Geison Franco. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeisonFranco&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" padding-top="5px" padding-bottom="5px" alt="Geison-pic" height="250" style="border-radius:40px;" src="https://64.media.tumblr.com/e7cfe0074ae5fd4bd2f47735e9f53206/tumblr_mkwpqrtiJN1rsdpaso1_500.gifv">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Geison-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
