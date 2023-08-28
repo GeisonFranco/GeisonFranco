@@ -4,18 +4,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeisonFranco&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Geison-React" height="60" width="80" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img align="center" alt="Geison-Next" height="60" width="80" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img align="center" alt="Geison-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Geison-typescript" height="60" width="80" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=whit">
-  <img align="center" alt="Geison-HTML" height="60" width="80" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Geison-CSS" height="60" width="80" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="npm" height="60" width="80" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-
-  
-
-  <img align="center" alt="Geison-Git" height="60" width="100" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Geison-Node" height="60" width="80" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Geison-React" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/React.svg">
+  <img align="center" alt="Geison-Next" height="50" width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png">
+  <img align="center" alt="Geison-Js" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg">
+  <img align="center" alt="Geison-typescript" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg">
+  <img align="center" alt="Geison-tailwin" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg">
+  <img align="center" alt="Geison-HTML" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/HTML5.svg">
+  <img align="center" alt="Geison-CSS" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/CSS3.svg">
+  <img align="center" alt="npm" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/NPM.svg">
+  <img align="center" alt="Geison-Git" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Git.svg">
+  <img align="center" alt="Geison-Node" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Node.js.svg">
 
 
 </div>
