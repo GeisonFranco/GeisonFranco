@@ -6,7 +6,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Geison-React" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/React.svg">
   <img align="center" alt="Geison-Next" height="50" width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png">
-  <img align="center" alt="Geison-Js" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg">
   <img align="center" alt="Geison-typescript" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg">
   <img align="center" alt="Geison-tailwin" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg">
   <img align="center" alt="Geison-HTML" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/HTML5.svg">
